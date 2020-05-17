@@ -42,7 +42,7 @@
 
 3. **課題その2（5月24日締切）**
    -  [確認用PDF](weekly/statistics2020_weekly_week2.pdf)
-   - Googleフォーム（URLは5月19日講義資料に記載）から解答提出すること．
+   - Googleフォーム（URLは5月19日講義資料に記載）から解答を提出すること．
 </details>
 
 
@@ -57,7 +57,7 @@
 
 3. **課題その1（5月17日締切）**
    -  [確認用PDF](weekly/statistics2020_weekly_week1.pdf)
-   - Googleフォーム（URLは5月12日講義資料に記載）から解答提出すること．
+   - Googleフォーム（URLは5月12日講義資料に記載）から解答を提出すること．
 </details>
 
 ### 5月5日 講義練習回・事前課題その2
