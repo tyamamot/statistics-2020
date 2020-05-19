@@ -9,7 +9,10 @@
   - メール: t.yamamoto@sis.u-hyogo.ac.jp
 - 連絡: slack，メール，Webexなんでも結構です
 
+
 ## お知らせ
+- <a href="https://forms.gle/nTamnMfz5njtjTuX9">5月19日 ミニ演習<a>
+  - 5月19日中に解答してください
 - (5/18) 5月19日の資料を掲載しました．課題その2の締切は5月24日（日）です．
   - (5/18) 課題その1を[Excelで解いたファイル](weekly/statistics2020_week1_example.xlsx)を置いておきます．参考にどうぞ．
 - (5/10) 5月12日の資料を掲載しました．課題その1の締切は5月17日（日）です．
