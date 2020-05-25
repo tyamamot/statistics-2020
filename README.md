@@ -39,7 +39,7 @@
 1. **5月26日講義資料（.pdf）**
    - [PDF(1.3MB)](materials/statistics2020_0526.pdf)
 
-2. **資料「確率の基礎」(.pdf) (5月19日 12時40分更新)**
+2. **資料「確率変数・確率分布」(.pdf) **
    - [PDF(2.8MB)](materials/statistics2020_lecture4.pdf)
 
 3. **課題その3（5月31日締切）**
