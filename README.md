@@ -39,7 +39,7 @@
 1. **6月2日講義資料（.pdf）**
    - [PDF](materials/statistics2020_0602.pdf)
 
-2. **資料「連続型の確率変数」(.pdf) **
+2. **資料「連続型の確率変数」(.pdf)**
    - [PDF](materials/statistics2020_lecture5.pdf)
 
 3. **課題その4（6月2日締切）**
