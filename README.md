@@ -44,7 +44,7 @@
 2. **資料「連続型の確率変数」(.pdf)**
    - [PDF](materials/statistics2020_lecture5.pdf)
 
-3. **課題その4（6月2日締切）**
+3. **課題その4（6月7日締切）**
    -  [確認用PDF](weekly/statistics2020_weekly_week4.pdf)
    - Googleフォーム（URLは6月2日講義資料に記載）から解答を提出すること．
 
