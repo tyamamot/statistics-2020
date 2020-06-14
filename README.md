@@ -4,7 +4,7 @@
 ## 開講情報
 - 開講時間: 火曜3限（13:00 – 14:30）
 - 場所: 当面オンライン
-- 担当: 社会情報科学部 准教授: **山本 岳洋** (t.yamamoto@sis.u-hyogo.ac.jp）
+- 担当: 社会情報科学部 准教授: **山本 岳洋**
   - 教員HP: [https://rerank-lab.org](https://rerank-lab.org)
   - メール: t.yamamoto@sis.u-hyogo.ac.jp
 - 連絡: slack，メール，Webexなんでも結構です
@@ -44,7 +44,7 @@
 
 1. **6月16日講義資料「中間レポートについて」**
    - [PDF](materials/statistics2020_0616.pdf)
-2. **中間レポート課題6月28日締切**
+2. **中間レポート課題（6月28日締切）**
    - [PDF版](midterm/statistics2020_midterm_report.pdf)
    - [Word版](materials/statistics2020_midterm_report.docx)
    - Markdown版
