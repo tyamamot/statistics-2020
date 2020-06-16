@@ -46,7 +46,7 @@
    - [PDF](materials/statistics2020_0616.pdf)
 2. **中間レポート課題（6月28日締切）**
    - [PDF版](midterm/statistics2020_midterm_report.pdf)
-   - [Word版](materials/statistics2020_midterm_report.docx)
+   - [Word版](midterm/statistics2020_midterm_report.docx)
    - Markdown版
       - ユニパとslackに記載
    - Googleドキュメント版
