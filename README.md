@@ -50,7 +50,7 @@
 2. **資料「母集団と標本」(.pdf)**
    - [PDF](materials/statistics2020_lecture7.pdf)
 
-3. **課題その4（6月7日締切）**
+3. **課題その5（6月28日締切）**
    -  [確認用PDF](weekly/statistics2020_weekly_week5.pdf)
    - Googleフォーム（URLはPDFと6月23日講義資料に記載）から解答を提出すること．
 
