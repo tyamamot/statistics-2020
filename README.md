@@ -49,8 +49,7 @@
 
 2. **補足資料「標本分散の期待値の導出」**
    - [PDF](materials/statistics2020_lecture7_supplement.pdf)
-   - [Markdown](materials/statistics2020_lecture7_supplement.md)
-      - ブラウザで表示すると文字化けすると思いますので，ファイルに保存してからMrakdown対応のエディタで開いてください．
+   - [Markdown](https://www.dropbox.com/s/1etxj9odztwfobr/statistics2020_lecture7_supplement.md?dl=1)
 
 3. **課題その6（7月5日締切）**
    -  [確認用PDF](weekly/statistics2020_weekly_week6.pdf)
