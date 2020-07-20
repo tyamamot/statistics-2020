@@ -58,7 +58,7 @@
 1. **7月21日講義資料（.pdf)**
    - [PDF](materials/statistics2020_0721.pdf)
 
-2. 講義資料「仮説検定」（.pdf)**
+2. **講義資料「仮説検定」（.pdf)**
    - [PDF](materials/statistics2020_lecture9.pdf)
 
 3. **課題その9（7月26日締切）**
