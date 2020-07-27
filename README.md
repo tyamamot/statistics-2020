@@ -59,9 +59,9 @@
 1. **7月28日講義資料（.pdf)**
    - [PDF](materials/statistics2020_0728.pdf)
 
-2. **中間レポート課題（8月18日 23:59締切）**
-   - [PDF版](midterm/statistics2020_final_report.pdf)
-   - [Word版](midterm/statistics2020_final_report.docx)
+2. **期末レポート課題（8月18日 23:59締切）**
+   - [PDF版](final/statistics2020_final_report.pdf)
+   - [Word版](final/statistics2020_final_report.docx)
    - Markdown版
      - ユニパとslackに記載
    - Googleドキュメント版
