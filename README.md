@@ -11,15 +11,14 @@
 
 
 ## お知らせ
+- 2020年度前期終了に伴い，本ページを整理し，レポート課題と解説を削除しました．必要な人は山本まで連絡してください．
+
+
+<details><summary>過去のお知らせ一覧</summary>
 - (7/27) 期末レポートと7月28日講義資料を掲載しました．期末レポートの締め切りは8月18日（火）23:59 です．
 -  (7/20) 「統計学」では定期試験を行わず**期末レポート**を実施します．課題は7月28日に掲示します．
 -  (7/20) 7月21日講義資料を掲載しました．課題その9の締め切りは7月26日（日）です．
 - (7/13) 19:00: **定期試験に関する情報を16時頃に更新しましたが，一旦白紙となりました**．最新の情報を決め次第連絡いたします．
-
-
-
-<details><summary>過去のお知らせ一覧</summary>
-
 - (7/11) 7月14日講義資料を掲載しました．課題その8の締め切りは7月19日（日）です．
 - (7/7) 17:00 7月7日講義資料および「区間推定」の資料を更新したので，お手数ですが再ダウンロードしておいてください．
 - (7/6) 7月7日講義資料および中間レポートの解説を掲載しました．課題その7の締め切りは7月12日（日）です．また，7月7日のミニ演習はありません．
@@ -40,11 +39,6 @@
 - (4/28) 事前課題その1の資料を掲載しました．また，5/5 13:00からWebexテスト回をします．
 </details>
 
-## <span style="color:red;">期末レポートについて</span>
-- 定期試験は対面・オンラインともに**実施しません**
-- レポート課題は7月28日にユニパ・講義ページ・講義等で案内します
-- 中間レポート同様，必須課題と任意の発展課題を用意する予定です
-- 締切: 8月18日（火） 23:59
 
 
 ## 講義目的・到達目標（シラバスより）
@@ -56,188 +50,69 @@
 
 ### 7月28日 第12回講義
 
-1. **7月28日講義資料（.pdf)**
-   - [PDF](materials/statistics2020_0728.pdf)
-
-2. **期末レポート課題（8月18日 23:59締切）**
-   - [PDF版](final/statistics2020_final_report.pdf)
-   - [Word版](final/statistics2020_final_report.docx)
-   - Markdown版
-     - ユニパとslackに記載
-   - Googleドキュメント版
-     - ユニパとslackに記載    
 
 ### 7月21日 第11回講義
-
-1. **7月21日講義資料（.pdf)**
-   - [PDF](materials/statistics2020_0721.pdf)
 
 2. **講義資料「仮説検定」（.pdf)**
    - [PDF](materials/statistics2020_lecture9.pdf)
 
-3. **課題その9（7月26日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week9.pdf)
-   - Googleフォーム（URLはPDFと7月21日講義資料に記載）から解答を提出すること．
-
 ### 7月14日 第10回講義
 
-1. **7月14日講義資料（.pdf)**
-   - [PDF](materials/statistics2020_0714.pdf)
-
-2. **7月14日ミニ演習説明動画**
-   - slackに記載
-
-3. **課題その8（7月19日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week8.pdf)
-   - Googleフォーム（URLはPDFと7月14日講義資料に記載）から解答を提出すること．
 
 ### 7月7日 第9回講義
-
-1. **7月7日講義資料（.pdf）7/7 17:00 更新（問1 b-3. の答えが誤っていました）**
-   - [PDF](materials/statistics2020_0707.pdf)
 
 2. **講義資料「区間推定」7/7 17:00 更新**
    - [PDF](materials/statistics2020_lecture8.pdf)
 
-3. **中間レポート解説**
-   - [PDF](midterm/statistics2020_midterm_report_answer.pdf)
-
-3. **課題その7（7月12日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week7.pdf)
-   - Googleフォーム（URLはPDFと7月7日講義資料に記載）から解答を提出すること．
-
 ### 6月30日 第8回講義
-
-1. **6月30日講義資料（.pdf）**
-   - [PDF](materials/statistics2020_0630.pdf)
 
 2. **補足資料「標本分散の期待値の導出」**
    - [PDF](materials/statistics2020_lecture7_supplement.pdf)
       - [Markdown版](https://www.dropbox.com/s/1etxj9odztwfobr/statistics2020_lecture7_supplement.md?dl=1) Markdown対応エディタを持っている人向け
 
-3. **課題その6（7月5日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week6.pdf)
-   - Googleフォーム（URLはPDFと6月30日講義資料に記載）から解答を提出すること．
-
 
 ### 6月23日 第7回講義
-
-1. **6月23日講義資料（.pdf）**
-   - [PDF](materials/statistics2020_0623.pdf)
 
 2. **資料「母集団と標本」(.pdf)**
    - [PDF](materials/statistics2020_lecture7.pdf)
 
-3. **課題その5（6月28日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week5.pdf)
-   - Googleフォーム（URLはPDFと6月23日講義資料に記載）から解答を提出すること．
-
 ### 6月16日 第6回講義（中間レポート）
 
-1. **6月16日講義資料「中間レポートについて」**
-   - [PDF](materials/statistics2020_0616.pdf)
-2. **中間レポート課題（6月28日締切）**
-   - [PDF版](midterm/statistics2020_midterm_report.pdf)
-   - [Word版](midterm/statistics2020_midterm_report.docx)
-   - Markdown版
-      - ユニパとslackに記載
-   - Googleドキュメント版
-      - ユニパとslackに記載                  
-4. 各種説明動画
-   1. Wordでレポートを書く
-   2. Googleドキュメントでレポートを書く
-   3. Excelで正規分布の確率計算
-   4. Googleスプレッドシートで正規分布の確率計算
-   - URLはユニパとslackに記載
 
 ### 6月9日 第5回講義
-
-1. **6月9日講義資料（.pdf）**
-   - [PDF](materials/statistics2020_0609.pdf)
 
 2. **資料「正規分布」(.pdf) （6月9日19時02分更新）**
    - [PDF](materials/statistics2020_lecture6.pdf)
 
 ### 6月2日 第4回講義
 
-1. **6月2日講義資料（.pdf）**
-   - [PDF](materials/statistics2020_0602.pdf)
 
 2. **資料「連続型の確率変数」(.pdf)**
    - [PDF](materials/statistics2020_lecture5.pdf)
 
-3. **課題その4（6月7日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week4.pdf)
-   - Googleフォーム（URLは6月2日講義資料に記載）から解答を提出すること．
-
 ### 5月26日 第3回講義
-
-1. **5月26日講義資料（.pdf）(5月26日 14時50分更新)**
-   - [PDF(3.4MB)](materials/statistics2020_0526.pdf)
-
 2. **資料「確率変数・確率分布」(.pdf) **
    - [PDF(2.8MB)](materials/statistics2020_lecture4.pdf)
 
-3. **課題その3（5月31日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week3.pdf)
-   - Googleフォーム（URLは5月26日講義資料に記載）から解答を提出すること．
-
 ### 5月19日 第2回講義
-
-1. **5月19日講義資料（.pdf）**
-   - [PDF(0.8MB)](materials/statistics2020_0519.pdf)
 
 2. **資料「確率の基礎」(.pdf) (5月19日 12時40分更新)**
    - [PDF(5.8MB)](materials/statistics2020_lecture3.pdf)
 
-3. **課題その2（5月24日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week2.pdf)
-   - Googleフォーム（URLは5月19日講義資料に記載）から解答を提出すること．
-
-
 ### 5月12日 第1回講義
-1. **5月12日講義資料（.pdf）**
-   - [PDF(2.2MB)](materials/statistics2020_0512.pdf)
 
 2. **資料「2変数データの記述と要約」(.pdf)**
    - [PDF(6.4MB)](materials/statistics2020_lecture2.pdf)
 
-3. **課題その1（5月17日締切）**
-   -  [確認用PDF](weekly/statistics2020_weekly_week1.pdf)
-   - 課題その1を[Excelで解いたファイル](weekly/statistics2020_week1_example.xlsx)
-   - Googleフォーム（URLは5月12日講義資料に記載）から解答を提出すること．
-</details>
-
 ### 5月5日 講義練習回・事前課題その2
 
-配布資料1つと事前課題1つの合計2つです．
-
-1. **5月5日講義資料（.pdf）**
-   - [PDF(1.5MB)](materials/statistics2020_0505.pdf)
-     - 5月5日のWebex練習回に参加する人は事前にダウンロードしておいてください．
-     - 事前課題その1の解説が主な内容です．練習回に参加しなかった人も事前課題その1を解いた後に確認してください．
-
-2. **事前課題その2（5月11日締切）（ユニパのアンケート）**
-   - ユニパのアンケートより回答（5月5日午後から回答可能になると思います）
-   - テストなどではないので，気楽に回答してください．（成績評価とは無関係です）
-   - 受講者の受講状況確認もかねていますので，できる限り回答をお願いいたします
-</details>
 
 ### 4月28日 事前課題その1
-配布資料2つと事前課題1つの合計3つあります．配付資料はユニパのクラスプロファイルにおいているものと同一です．
-（ユニパがダウンしたときのバックアップのためこちらにもおいておきます）
 
-1. **簡易イントロダクション（.ppsx）**
-   - [.ppsxファイル(9.6MB)](videos/statistics2020_intro1.ppsx)
-     - スライドをめくっていくと音声が流れると思います．
-   - 上記 .ppsxが開けない人向け動画（YouTube）
-     - URLはユニパに記載
 2. **資料「1変数データの記述と要約」(.pdf)**
    - [PDF(2.5MB)](materials/statistics2020_lecture1.pdf)
      - WindowsやMacでPDFが開けない人は，Adobe Acrobat Reader をインストールしてください．
-3. **事前課題その1（5月4日締切）（ユニパのアンケート）**
-   - ユニパのアンケートより回答
-   - [確認用PDF](weekly/statistics2020_weekly_pre1.pdf): ユニパのアンケートと同内容です．
+
 
 ## 講義スケジュール（7月14日v2版）
 スケジュールは今後変更する可能性が大いにあります．目安程度にしておいてください．
